@@ -7,6 +7,7 @@ public class arr1 {
          System.out.println(nums);  
          for(int i=0;i<=3;i++){
             System.out.println(nums[i]);
+ System.out.println(nums[i]);
          }
         
     }
