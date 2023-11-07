@@ -8,8 +8,4 @@ public class arr1 {
          for(int i=0;i<=3;i++){
             System.out.println(nums[i]);
  System.out.println(nums[i]);
-         }
-        
-    }
-    
-}
+       
